@@ -1,0 +1,65 @@
+
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior iOS Engineer",
+      "company_name": "Automattic",
+      "candidate_required_location": "Worldwide",
+      "salary": "$120,000 – $160,000",
+      "description": "<p>We are looking for a Senior iOS Engineer to join our mobile team working on the WordPress iOS app.</p><p><strong>Responsibilities:</strong></p><ul><li>Build and maintain features in Swift</li><li>Collaborate with product and design</li><li>Write unit and UI tests</li></ul><p><strong>Requirements:</strong></p><ul><li>5+ years iOS development</li><li>Strong Swift, UIKit and SwiftUI knowledge</li><li>Experience with async/await and Combine</li></ul>",
+      "job_type": "full_time",
+      "url": "https://automattic.com/jobs",
+      "tags": ["iOS", "Swift", "SwiftUI"],
+      "publication_date": "2026-05-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "iOS Developer",
+      "company_name": "Buffer",
+      "candidate_required_location": "Remote – USA",
+      "salary": "$95,000 – $120,000",
+      "description": "<p>Buffer is hiring an iOS Developer to help build and grow our social media scheduling app.</p><p><strong>What you'll do:</strong></p><ul><li>Develop new features from design specs</li><li>Maintain and improve existing codebase</li><li>Participate in code reviews</li></ul><p><strong>Requirements:</strong></p><ul><li>3+ years iOS experience</li><li>Proficiency in Swift</li><li>Familiarity with Agile/Scrum</li></ul>",
+      "job_type": "full_time",
+      "url": "https://buffer.com/jobs",
+      "tags": ["iOS", "Swift", "Agile"],
+      "publication_date": "2026-05-03T08:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Mobile Engineer (iOS)",
+      "company_name": "Shopify",
+      "candidate_required_location": "Remote – Canada",
+      "salary": "$130,000 – $170,000",
+      "description": "<p>Join Shopify's mobile team to build commerce experiences for merchants on iOS.</p><p><strong>Responsibilities:</strong></p><ul><li>Build performant scalable iOS features</li><li>Drive technical architecture decisions</li><li>Mentor junior engineers</li></ul><p><strong>Requirements:</strong></p><ul><li>7+ years mobile development</li><li>Expert-level Swift</li><li>Experience with large-scale apps</li></ul>",
+      "job_type": "full_time",
+      "url": "https://shopify.com/careers",
+      "tags": ["iOS", "Swift", "Architecture"],
+      "publication_date": "2026-05-05T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Junior iOS Developer",
+      "company_name": "Doist",
+      "candidate_required_location": "Worldwide",
+      "salary": "$60,000 – $80,000",
+      "description": "<p>Doist is hiring a Junior iOS Developer to work on Todoist, one of the world's most popular productivity apps.</p><p><strong>You will:</strong></p><ul><li>Fix bugs and improve app stability</li><li>Build small features under guidance</li><li>Write tests for your code</li></ul><p><strong>Requirements:</strong></p><ul><li>1+ year iOS experience or strong portfolio</li><li>Swift fundamentals</li><li>Passion for clean code</li></ul>",
+      "job_type": "full_time",
+      "url": "https://doist.com/jobs",
+      "tags": ["iOS", "Swift", "Junior"],
+      "publication_date": "2026-05-07T11:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "iOS Contractor",
+      "company_name": "Toptal",
+      "candidate_required_location": "Remote – Europe",
+      "salary": "$80 – $120/hr",
+      "description": "<p>Toptal is looking for an experienced iOS contractor for a 6-month fintech engagement.</p><p><strong>Scope:</strong></p><ul><li>Architecture and implementation of a new iOS app</li><li>API integration and local data persistence</li><li>App Store submission support</li></ul><p><strong>Requirements:</strong></p><ul><li>5+ years iOS</li><li>SwiftUI experience</li><li>Fintech or banking app background preferred</li></ul>",
+      "job_type": "contract",
+      "url": "https://toptal.com/jobs",
+      "tags": ["iOS", "SwiftUI", "Fintech", "Contract"],
+      "publication_date": "2026-05-10T14:00:00Z"
+    }
+  ]
+}
