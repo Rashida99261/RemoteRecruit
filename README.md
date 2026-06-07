@@ -117,7 +117,6 @@ RemoteRecruit
 │   ├── job_list.png
 │   ├── search.png
 │   ├── detail.png 
-|   ├──detail_1.png
 │   └── empty.png
 │
 └── Tests
@@ -129,7 +128,7 @@ RemoteRecruit
 
 | Job List | Search | Job Detail | Empty State |
 |---|---|---|---|
-| ![Job List](screenshots/job_list.png) | ![Search](screenshots/search.png) | ![Detail](screenshots/detail.png) |  ![Detail](screenshots/detail_1.png) | ![Empty](screenshots/empty.png) |
+| ![Job List](screenshots/job_list.png) | ![Search](screenshots/search.png) | ![Detail](screenshots/detail.png) | ![Empty](screenshots/empty.png) |
 
 ## Unit Tests
 
