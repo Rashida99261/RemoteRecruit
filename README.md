@@ -20,6 +20,24 @@ RemoteRecruit is a SwiftUI-based iOS application that allows users to browse rem
 
 ## Architecture
 
+
+### High-Level Flow
+
+```text
+SwiftUI View
+      ↓
+   ViewModel
+      ↓
+   UseCase
+      ↓
+ Repository
+      ↓
+ DataSource
+      ↓
+    API
+```
+
+
 The project follows MVVM and Clean Architecture principles.
 
 ### Presentation Layer
