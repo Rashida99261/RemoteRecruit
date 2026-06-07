@@ -113,10 +113,22 @@ RemoteRecruit
 │
 ├── Resources
 │
+├── Screenshots
+│   ├── job_list.png
+│   ├── search.png
+│   ├── detail.png
+│   └── empty.png
+│
 └── Tests
 ```
 
 ---
+
+## Screenshots
+
+| Job List | Search | Job Detail | Empty State |
+|---|---|---|---|
+| ![Job List](screenshots/job_list.png) | ![Search](screenshots/search.png) | ![Detail](screenshots/detail.png) | ![Empty](screenshots/empty.png) |
 
 ## Unit Tests
 
@@ -140,6 +152,12 @@ Tests cover:
 - Remote jobs are fetched from the Remotive API.
 - Search is performed locally after the initial data load.
 - Network failures can fall back to cached/local data when available.
+- Salary field is optional; "Salary not disclosed" is shown when absent.
+- HTML tags in job descriptions are rendered using AttributedString.
+- Deployment target is iOS 17+.
+- SearchUseCase was removed as the Remotive API search endpoint 
+- returned unfiltered results; local filtering was used instead.
+
 
 ---
 
