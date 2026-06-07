@@ -147,24 +147,14 @@ Tests cover:
 
 ### Requirements
 
-- Xcode 26+
+- Xcode 16+
 - iOS 17+
 - Swift 6
 
 ### Steps
 
 1. Clone the repository
-
-```bash
-git clone <repository-url>
-```
-
 2. Open the project
-
-```bash
-RemoteRecruit.xcodeproj
-```
-
 3. Run the application on Simulator or Device
 
 ---
